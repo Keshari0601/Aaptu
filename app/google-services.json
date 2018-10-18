@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "695082748738",
+    "firebase_url": "https://avishkar-57a7c.firebaseio.com",
+    "project_id": "avishkar-57a7c",
+    "storage_bucket": "avishkar-57a7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695082748738:android:e446cae5b18b6a34",
+        "android_client_info": {
+          "package_name": "com.example.devonspredator.emailauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695082748738-gsdcd716d3d5hmb524djsbal2dcuqut3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devonspredator.emailauth",
+            "certificate_hash": "373e9d8a06bf870eb4cba1ec91fe0e1eb7a998df"
+          }
+        },
+        {
+          "client_id": "695082748738-flq13rhqnogifqpct6lmeqit33ir6lrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.devonspredator.emailauth",
+            "certificate_hash": "0908eedc0221293ebe34e8f1c43d6f71b3ca736a"
+          }
+        },
+        {
+          "client_id": "695082748738-e4fvoucvr7b04b90n6vjga8k1p27nkou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBP2Xx7gqet3MYH8PT4_I9WKd-hXYlRSs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695082748738-e4fvoucvr7b04b90n6vjga8k1p27nkou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
