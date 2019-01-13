@@ -1,0 +1,3 @@
+# Aaptu
+An android application in which every registered user can host the test as well as give the test. This app will help the users to get trained for a topic of his choice and users can view the report of current test and compare with other users. Also he can view his overall improvement with interactive graphs.
+This android app is made for event Droidrush, Avishkar 2k18. User can submit their quiz as well as user can give quiz. User can search quiz by its timelimit, keywords and topicwise. User can rate quiz guven by him, as well a user can view his progress with interactive graphs and charts.
